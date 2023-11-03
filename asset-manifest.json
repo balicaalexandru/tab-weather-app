@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tab-weather-app/static/css/main.3388d138.css",
+    "main.js": "/tab-weather-app/static/js/main.cf98faf4.js",
+    "static/media/cold.jpg": "/tab-weather-app/static/media/cold.ec9a0c27050fb0d6b963.jpg",
+    "static/media/hot.jpg": "/tab-weather-app/static/media/hot.e565ad6a386dcfdbe0c4.jpg",
+    "index.html": "/tab-weather-app/index.html",
+    "main.3388d138.css.map": "/tab-weather-app/static/css/main.3388d138.css.map",
+    "main.cf98faf4.js.map": "/tab-weather-app/static/js/main.cf98faf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3388d138.css",
+    "static/js/main.cf98faf4.js"
+  ]
+}
